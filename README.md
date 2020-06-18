@@ -1,3 +1,3 @@
 ReduxCode
 
-Companion repo for a course on Udemy!
+Repo for a course on Udemy!
